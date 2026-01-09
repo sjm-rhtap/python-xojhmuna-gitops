@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: python-xojhmuna-repository
+spec:
+  url: https://github.com/sjm-rhtap/python-xojhmuna
